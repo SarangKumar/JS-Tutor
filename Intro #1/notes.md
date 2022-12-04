@@ -22,8 +22,7 @@ This is the standard on which Js is based. JS follows the standards of ECMA so t
 
 > **Note**
 >
-> You need to download [node.js](https://nodejs.org/en/download/) to follow along with the sessions
-
+> You need to download [node.js](https://nodejs.org/en/download/) to follow along with the sessions.*Its suggested to use LTS version*
 #### Using node.js
 
 After installing node run the following commmand to check if it is installed properly and added to path. Output is supposed to be the version of the node that is installed (*for me it's v16.17.1, but since it changes very rapidly you may expect higher versions in comming future*)
