@@ -13,7 +13,7 @@ a = 'name' //changing the data type is valid in Js
 console.log(a) //function to print the value in console/cmd
 ```
 
-#### Rules for writing variables
+### Rules for wriing variables
 
 - Letter, digits, _ and $ are allowed
 - Variable name should not start with digit

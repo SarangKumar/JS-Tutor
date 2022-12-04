@@ -7,12 +7,12 @@ Computer is a dump machine that has all the logic predefined and on top of that 
 
 This is the standard on which Js is based. JS follows the standards of ECMA so that the output of all the instructions is same for all the instructions in JS irrespective of the environment.
 
-### Features
+## Features of JS
 
 - JS and ECMA terms can be used interchangeably (almost everytime)
 - JS is very liberal
 
-#### How to execute JS
+### How to execute JS
 
 - Use browers
 - Use runtime - `node.js`
