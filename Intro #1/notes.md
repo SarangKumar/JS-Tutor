@@ -19,5 +19,26 @@ This is the standard on which Js is based. JS follows the standards of ECMA so t
 - Use third party softwares - `sandbox`, `replit`, `codepen`
 
 
+
 > **Note**
+>
 > You need to download [node.js](https://nodejs.org/en/download/) to follow along with the sessions
+
+#### Using node.js
+
+After installing node run the following commmand to check if it is installed properly and added to path. Output is supposed to be the version of the node that is installed (*for me it's v16.17.1, but since it changes very rapidly you may expect higher versions in comming future*)
+
+```bash
+node -v
+```
+or
+```bash
+node --version
+```
+
+To run the js script:
+-  Make a file with extension as .js for example `filename.js`. 
+- Then go to the folder where you have saved the file and write 
+```bash
+node filename.js
+```
