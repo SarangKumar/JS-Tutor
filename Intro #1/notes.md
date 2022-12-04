@@ -17,3 +17,7 @@ This is the standard on which Js is based. JS follows the standards of ECMA so t
 - Use browers
 - Use runtime - `node.js`
 - Use third party softwares - `sandbox`, `replit`, `codepen`
+
+
+> **Note**
+> You need to download [node.js](https://nodejs.org/en/download/) to follow along with the sessions
